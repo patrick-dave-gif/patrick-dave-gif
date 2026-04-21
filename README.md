@@ -66,9 +66,8 @@
 ### 📜 Certificates
 
 #### Microsoft Certified – Java Programming  
-<img src="./assets/certificates/microsoft-java-cert.png" width="600">
+<a href="./asset/certificate/java.pdf">View Microsoft Certified - Java Programming PDF</a>
 
 #### Cisco Certified – Ethical Hacking  
-<img src="./asset/certificates/ethical_hacker.jpg" width="600">
-
+<img src="./asset/certificate/ethical_hacker.jpg" width="600">
 </div>

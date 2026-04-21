@@ -1,4 +1,6 @@
-<h1 style="text-align: center;">Hi, I am Patrick Dave Patana</h1>
+<center>
+  <h1>Hi, I am Patrick Dave Patana</h1>
+</center>
 <hr>
 
 

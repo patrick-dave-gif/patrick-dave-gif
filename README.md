@@ -1,6 +1,4 @@
-<center>
-  <h1>Hi, I am Patrick Dave Patana</h1>
-</center>
+<h1 align="center">Hi, I am Patrick Dave Patana</h1>
 <hr>
 
 

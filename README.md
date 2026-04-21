@@ -69,6 +69,6 @@
 <img src="./assets/certificates/microsoft-java-cert.png" width="600">
 
 #### Cisco Certified – Ethical Hacking  
-<img src="./assets/certificates/cisco-ethical_hacker.jpg" width="600">
+<img src="./asset/certificates/cisco-ethical_hacker.jpg" width="600">
 
 </div>
